@@ -1,6 +1,12 @@
 #EXTM3U
 #EXT-X-APP APTV
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg" group-title="「斗鱼」一起看",万合出品
 https://www.goodiptv.club/douyu/9220456
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="「虎牙」一起看",陈翔六点半
