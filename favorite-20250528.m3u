@@ -25,16 +25,8 @@ https://www.goodiptv.club/douyu/9639225
 https://www.goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5ef9d68abb5b45e4afefe8194b5dcd5c_big.jpg" group-title="「斗鱼」一起看",小约翰可汗
 https://www.goodiptv.club/douyu/9738854
-#EXTINF:-1 group-title="💓专享源🅱️",贝爷壹厅
-http://120.77.28.4:8648/douyu.php?id=252802
-#EXTINF:-1 group-title="💓专享源🅱️",贝爷贰厅
-http://120.77.28.4:8648/douyu.php?id=4332
-#EXTINF:-1 group-title="💓专享源🅱️",贝爷叁厅
-http://120.77.28.4:8648/douyu.php?id=36337
 #EXTINF:-1 group-title="💓专享源🅱️",贝爷欧美IMAX厅
 http://zzy789.xyz/douyu1.php?id=4332#http://159.75.85.63:35455/douyu/4332
-#EXTINF:-1 group-title="💓专享源🅱️",贝爷欧美②厅
-http://zzy789.xyz/douyu1.php?id=36337#http://159.75.85.63:35455/douyu/36337
 #EXTINF:-1 group-title="💓专享源🅱️",邵氏影院
 http://120.77.28.4:8648/douyu.php?id=4246519
 #EXTINF:-1 group-title="💓专享源🅱️",漫威影院
@@ -99,8 +91,6 @@ http://wouu.net:9977/udp/239.93.1.135:5140
 https://www.goodiptv.club/huya/24609819
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/ea/0ce33d29c1f09e3790171f0c1dc8c5_180_135.jpg?1621388376" group-title="「虎牙」户外",钓鱼渣渣慧
 https://www.goodiptv.club/huya/24764124
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202310/16c7826b136f45ff95445e56db47f5f1_big.jpg" group-title="「斗鱼」一起看",哇塞的星星
-https://www.goodiptv.club/douyu/11854896
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/d3/268f2091d4bb1f014bd733aec00782_180_135.jpg?1616423211" group-title="「虎牙」户外",川味凉皮
 https://www.goodiptv.club/huya/24413777
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/24/43a23d0479fba64ad0394e0c3b891d_180_135.jpg?1583299590" group-title="「虎牙」户外",原始美食与生活
