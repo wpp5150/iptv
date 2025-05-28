@@ -1,64 +1,8 @@
 #EXTM3U
 #EXT-X-APP APTV
 
-#EXTINF:-1 group-title="纪录片",国家地理
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="🍹定制台☕️",贝爷求生
-http://zzy789.xyz/douyu1.php?id=454867
-#EXTINF:-1 group-title="🍹定制台☕️",挨饿德•2
-https://live.iill.top/huya/17693860
-#EXTINF:-1 group-title="🍹定制台☕️",挨饿德•1
-https://live.iill.top/huya/20985858
-#EXTINF:-1 group-title="电视剧频道",寻秦记
-https://lunbo.freetv.top/yy/1382851591
-#EXTINF:-1 group-title="电视剧频道",鹿鼎记
-https://lunbo.freetv.top/yy/28265277
-#EXTINF:-1 group-title="电视剧频道",封神榜
-https://lunbo.freetv.top/yy/1353426319
-#EXTINF:-1 group-title="电视剧频道",新白娘子传奇
-https://lunbo.freetv.top/yy/1354930969
-#EXTINF:-1 group-title="电视剧频道",红楼梦
-https://lunbo.freetv.top/yy/1382745084
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202411/515e0182255c47738969f4d9d3fcc32f_big.jpg" group-title="「斗鱼」一起看",时光再遇见-雍正王朝
-https://www.goodiptv.club/douyu/4944033
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/c593dd94c9de4c62976bdec933656562_big.jpg" group-title="「斗鱼」一起看",米尼影院-东北一家人
-https://www.goodiptv.club/douyu/7642724
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202409/cce3554153864b53b68a8a8e8c579296_big.jpg" group-title="「斗鱼」一起看",三国颜老师
-https://www.goodiptv.club/douyu/12253936
-#EXTINF:-1 group-title="💓专享源🅱️",新版三国
-http://120.77.28.4:8648/douyu.php?id=5908256
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202308/ed30c2a412654672bd59add6b8b7a5bd_big.jpg" group-title="「斗鱼」一起看",蓝翔新三国
-https://www.goodiptv.club/douyu/5908256
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1b622249ad24a8fa3d6a5885ece793d_big.jpg" group-title="「斗鱼」一起看",蓝翔老三国
-https://www.goodiptv.club/douyu/7459925
-#EXTINF:-1 group-title="电视剧频道",三国演义
-https://lunbo.freetv.top/yy/1354930932
-#EXTINF:-1 group-title="💓专享源🅱️",三国剧场
-http://120.77.28.4:8648/douyu.php?id=2838296
-#EXTINF:-1 group-title="💓儿童专享",动漫秀场
-http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/93fe4e12db2d4726a1af6f699c2ceced_big.jpg" group-title="「斗鱼」一起看",已知艺术家漫画解说
-https://www.goodiptv.club/douyu/5907076
-#EXTINF:-1 group-title="动画片",猫和老鼠
-http://live.iill.top/huya.php?id=11352879
-#EXTINF:-1 group-title="💓儿童专享",哆啦A梦
-http://www.52sw.top:678/play/huya.php?id=11601963
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5d6c1395c02d4e6995a6b2259f725da2_big.jpg" group-title="「斗鱼」一起看",画渣花小烙
-https://www.goodiptv.club/douyu/9072066
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/2906555b47834399bbcc21a13c4e8ad1_big.jpg" group-title="「斗鱼」一起看",大兵动画
-https://www.goodiptv.club/douyu/9516137
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/ffb2f24c6c4c401bb62f555ab32b57ec_big.jpg" group-title="「斗鱼」一起看",TSSS映画
-https://www.goodiptv.club/douyu/9749339
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/e6a5f489b3544b40a21ce439fdfd03f6_big.jpg" group-title="「斗鱼」一起看",暴走漫画
-https://www.goodiptv.club/douyu/1275878
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/56d2fa9e01d94dbea284955fe76bde56_big.jpg" group-title="「斗鱼」一起看",中二日记搞笑动画
-https://www.goodiptv.club/douyu/9505575
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg" group-title="「斗鱼」一起看",万合出品
 https://www.goodiptv.club/douyu/9220456
-#EXTINF:-1 group-title="💓专享源🅱️",万合出品
-http://120.77.28.4:8648/douyu.php?id=9220456
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/default/08_big.jpg" group-title="「斗鱼」一起看",龙视爱笑会议室
-https://www.goodiptv.club/douyu/9375430
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="「虎牙」一起看",陈翔六点半
 https://www.goodiptv.club/huya/11274154
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/53/cc8553b5edaa373ebf3128d434968f_180_135.jpg" group-title="「虎牙」户外",阿星
@@ -81,16 +25,6 @@ https://www.goodiptv.club/douyu/9639225
 https://www.goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/5ef9d68abb5b45e4afefe8194b5dcd5c_big.jpg" group-title="「斗鱼」一起看",小约翰可汗
 https://www.goodiptv.club/douyu/9738854
-#EXTINF:-1 group-title="💓优质个源",求索科学
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="💓优质个源",求索动物
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="💓优质个源",求索生活
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="💓优质个源",求索纪录
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="综艺频道",超级综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8
 #EXTINF:-1 group-title="💓专享源🅱️",贝爷壹厅
 http://120.77.28.4:8648/douyu.php?id=252802
 #EXTINF:-1 group-title="💓专享源🅱️",贝爷贰厅
