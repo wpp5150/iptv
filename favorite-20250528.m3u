@@ -256,3 +256,23 @@ http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/云南丽江玉龙雪山.png",云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/云南丽江蓝月谷.png",云南丽江蓝月谷
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/云南白沙远眺玉龙雪山.png",云南白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/四川峨眉山云海日出.png",四川峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/四川峨眉山远眺贡嘎雪山.png",四川峨眉山远眺贡嘎雪山
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/新疆天山.png",新疆天山
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/江苏徐州云龙湖风景区云龙山观景台西.png",江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/贵州省兴义市万峰林.png",贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/黄山飞来石.png",黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="直播中国" tvg-logo="https://livecdn.zbds.top/logo/黄花城水长城02.png",黄花城水长城02
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
